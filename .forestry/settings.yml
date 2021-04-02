@@ -10,6 +10,11 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: content/about
+  label: About
+  create: none
+  match: "*"
+- type: directory
   path: content/blog
   label: Post
   create: documents
@@ -17,8 +22,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/about
-  label: About
+  path: content/contact
+  label: Contact
   create: none
   match: "*"
 - type: directory
@@ -27,11 +32,6 @@ sections:
   create: documents
   match: "*"
   new_doc_ext: yml
-- type: directory
-  path: content/contact
-  label: Contact
-  create: none
-  match: "*"
 - type: document
   path: config.toml
   label: Configuration
