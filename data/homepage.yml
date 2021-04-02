@@ -26,7 +26,7 @@ skill:
       color: '#bdecf6'
       title: Web Design
     - title: blabla
-      progress: 70%
+      progress: 40%
       color: '#ffbcaa'
 experience:
   enable: true
