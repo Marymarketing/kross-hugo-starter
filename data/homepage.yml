@@ -24,6 +24,7 @@ skill:
       color: '#9473e6'
     - progress: 80%
       color: '#bdecf6'
+      title: Web Design
     - title: Web App
       progress: 70%
       color: '#ffbcaa'
