@@ -75,7 +75,8 @@ service:
       highlighted: true
       content: >-
         Je suis designer graphiste depuis plus de 25 ans, j'ai aussi repris une
-        formation d'un an en 2018 pour me mettre à jour sur les techniques de
+        formation d'un an en 2018 pour me mettre à jour sur les techniques dans
+        le domaine de la communication et du graphisme
     - title: Interaction Design
       icon: ti-panel
       content: >-
