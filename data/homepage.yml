@@ -73,6 +73,7 @@ service:
     - title: Desinger Graphique
       icon: ti-vector
       highlighted: true
+      content: Je suis designer gra
     - title: Interaction Design
       icon: ti-panel
       content: >-
