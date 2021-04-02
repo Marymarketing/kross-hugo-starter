@@ -22,7 +22,7 @@ skill:
     - title: Suite adobe
       progress: 80%
       color: '#9473e6'
-    - progress: 80%
+    - progress: 50%
       color: '#bdecf6'
       title: Web Design
     - title: Web App
