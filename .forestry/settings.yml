@@ -11,12 +11,12 @@ sections:
   match: "*"
 - type: directory
   path: content/about
-  label: About
+  label: À propos
   create: none
   match: "*"
 - type: directory
   path: content/blog
-  label: Post
+  label: Blog
   create: documents
   match: "*"
   templates:
