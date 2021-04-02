@@ -20,7 +20,7 @@ skill:
       progress: 90%
       color: '#fdb157'
     - title: Suite adobe
-      progress: 90%
+      progress: 80%
       color: '#9473e6'
     - title: After Effects
       progress: 80%
