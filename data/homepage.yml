@@ -73,7 +73,9 @@ service:
     - title: Desinger Graphique
       icon: ti-vector
       highlighted: true
-      content: 'Je suis designer graphiste depuis plus de 25 ans, j''ai'
+      content: >-
+        Je suis designer graphiste depuis plus de 25 ans, j'ai aussi repris une
+        formation d'un an en 2018
     - title: Interaction Design
       icon: ti-panel
       content: >-
