@@ -1,5 +1,10 @@
 banner:
-  title: Hi! I’m <br> Christoher <br> UX designer
+  title: |
+    Bonjour,
+
+    Moi c'est Valérie
+
+    Designer Graphique
 about:
   enable: true
   content: >-
